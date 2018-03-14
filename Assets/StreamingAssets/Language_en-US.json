@@ -1,0 +1,75 @@
+﻿{
+  "newGameMainMenu": "PLAY!",
+  "newGame": "NEW GAME",
+  "gameOver": "GAME OVER!",
+  "selectSubMainMenu": "MY CHARACTERS",
+  "shopMainMenu": "SHOP",
+  
+  "shareMsg": "Share via",
+  
+  "buy": "BUY",
+  "notEnoughFundsShop": "Not enough credits!",
+  "subAlreadyBoughtShop": "Submarine already bought",
+  "maxItemReachedShop": "Item limit reached",
+  
+  "continueMsg": "CONTINUE",
+  "mainMenu": "MAIN MENU",
+  "pausedTitle":  "GAME PAUSED",
+  "share": "SHARE",
+  "watchAds": "WIN A PRIZE!",
+  "chooseSubTitle": "CHOOSE YOUR CHARACTER",
+  "go":  "GO!",
+  
+  "shopLifeAmount": "LIVES",
+  "shopShieldsAmount": "SHIELDS",
+  "shieldItem": "SHIELD",
+  "lifeItem": "LIFE",
+  "tokenItem": "TOKEN",
+  "dashUpgradeItem": "UPGRADE DASH",
+  "lifeUpgradeItem": "UPGRADE LIFE",
+  "shieldUpgradeItem": "UPGRADE SHIELD",
+  "creditsItem": "CREDITS",
+  "skinItem": "CHARACTER",
+  "shopStoredLives": "STORED LIVES",
+  "shopStoredShields": "STORED SHIELDS",
+  "tryYourLuckBtn": "TRY YOUR LUCK!",
+  
+  "notEnoughTokensJackPot": "Not enough tokens",
+  "twoPointsSkinsWarningJackPot": "TO GET A NEW SKIN YOU NEED 3 POINTS.",
+  "noRewardJackPot": "Nothing",
+  "twoPointsDashWarningJackPot": "TO GET AN UPGRADE DASH YOU NEED 3 POINTS",
+  "resultPreMsgJackPot": "YOU'VE EARNED:",
+  
+  "adsResultMsgCredits": "Plus {0}x Credits of this round!",
+  "adsResultMsgLives": "An Extra Stored Life!",
+  "adsResultMsgShields": "An Extra Stored Shield!",
+  "adsResultMsgTokens": "A Token!",
+  
+  "tutDontShowAgain": "Don't show this again",
+  "tutMainGameMovement": "Use the following buttons to move your character. You can change the control settings anytime by pausing the game.",
+  "tutMainGameScoring": "Keep your character below the half of the screen to score points faster. The half of the screen is indicated by the line below. If it's green you'll score points faster.",
+  "tutMainGameDash": "Press the following button below to use Dash. With Dash you become invincible until the Dash Bar is depleted. Be careful not to move out of the screen!",
+  "tutMainGameLifeShield": "When you're hit you'll lose a life. Extra lives may appear during the game.",
+  
+  "tutShopLifeShieldBuff": "The icon below on the left shows how many extra lives you have. You can increase the maximum (the number after the '/') by buying upgrades in the shop represented by the icon on the right.",
+  "tutShopStoredLifeShield": "The icon below shows how many stored lives you have. These are obtained through prizes. They'll be automatically used in case you start a game and don't have the maximum of lives.",
+  "tutShopDashBuff": "This icon represents how many Dash upgrades you have. You can upgrade your Dash in the shop. By upgrading it you'll increase the amount of time you stay invincible when dashing.",
+  "tutShopCredits": "The coin icon represents the amount of Credits you have. You can earn credits by either playing the game or through bonuses.",
+  "tutShopToken": "This icon represents the amount of Tokens you have to play the Jackpot in ''TRY YOUR LUCK''.",
+  
+  "gameOverMatchScore": "Score:",
+  "gameOverBestScore": "Best:",
+  "gameOverScores": "Best Players",
+  
+  
+  "tutGoogleGamePlayTitle": "BE SOCIAL",
+  "tutGoogleGamePlay": "Sign In your Google Game Play account and get the chance of checking out the best scores among your friends and the whole world! Your best score will be automatically shared. It'll require to sign in by pressing on the indicated button below everytime you open the game.",
+  
+  "rateUs": "Sure!",
+  "rateUsPostpone": "Later",
+  
+  "pauseControlSettingBtn": "Change Controls",
+  
+  "rateUsRequest": "Thank you for playing our game! \n Would you like to help a small indie team? \n Rate our game on Google Play. It's quick and we won't bother you again :)"
+}
+  

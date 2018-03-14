@@ -1,0 +1,73 @@
+﻿{
+  "newGameMainMenu": "JOGAR!",
+  "newGame": "NOVA PARTIDA",
+  "gameOver": "ACABOU!",
+  "selectSubMainMenu": "MEUS PERSONAGENS",
+  "shopMainMenu": "LOJA",
+  
+  "shareMsg": "Compartilhar por",
+  
+  "buy": "COMPRAR",
+  "notEnoughFundsShop": "Sem créditos suficientes!",
+  "subAlreadyBoughtShop": "Personagem já adquirido!",
+  "maxItemReachedShop": "Limite do item alcançado",
+  
+  "continueMsg": "CONTINUAR",
+  "mainMenu": "MENU PRINCIPAL",
+  "pausedTitle":  "PAUSADO",
+  "share": "COMPARTILHAR",
+  "watchAds": "GANHE PRÊMIOS!",
+  "chooseSubTitle": "ESCOLHA SEU PERSONAGEM",
+  "go":  "VAI!",
+  
+  "shopLifeAmount": "VIDAS",
+  "shopShieldsAmount": "ESCUDOS",
+  "shieldItem": "ESCUDO",
+  "lifeItem": "VIDA",
+  "tokenItem": "FICHA",
+  "dashUpgradeItem": "MELHORAR DASH",
+  "lifeUpgradeItem": "MELHORAR VIDA",
+  "shieldUpgradeItem": "MELHORAR ESCUDO",
+  "creditsItem": "CRÉDITOS",
+  "skinItem": "PERSONAGEM",
+  "shopStoredLives": "VIDAS ARMAZENADAS",
+  "shopStoredShields": "ESCUDOS ARMAZENADOS",
+  "tryYourLuckBtn": "TENTE A SORTE!",
+  
+  "notEnoughTokensJackPot": "Sem fichas suficientes",
+  "twoPointsSkinsWarningJackPot": "Para obter Personagem é necessário obter 3 pontos.",
+  "twoPointsDashWarningJackPot": "Para obter Melhorar Dash é necessário obter 3 pontos.",
+  "noRewardJackPot": "Nada",
+  "resultPreMsgJackPot": "VOCÊ GANHOU:",
+  
+  "adsResultMsgCredits": "Mais {0}x Créditos Dessa Partida!",
+  "adsResultMsgLives": "Mais uma Vida Armazenada!",
+  "adsResultMsgShields": "Mais um Escudo Armazenado!",
+  "adsResultMsgTokens": "Uma Ficha!",
+  
+  "tutDontShowAgain": "Não exibir novamente",
+  "tutMainGameMovement": "Use os botões abaixo para movimentar seu personagem. Você pode alterar os controles a qualquer momento pausado o jogo.",
+  "tutMainGameScoring": "Mantenha seu personagem abaixo da metade da tela para ganhar pontos mais rápido. A metade da tela é indicada pela figura abaixo. Caso esteja verde, você ganhará mais pontos.",
+  "tutMainGameDash": "Aperte o botão abaixo para usar o movimento Dash. Com este movimento você se torna invencível até que a barra de Dash se esgote. Tenha cuidado para não sair da tela!",
+  "tutMainGameLifeShield": "Caso seja acertado ou saia da tela você perderá uma vida. Vidas extras podem aparecer durante o jogo.",
+  
+  "tutShopLifeShieldBuff": "O ícone abaixo à esquerda mostra quantas vidas extras você possui. Você pode aumentar o máximo de extras (o número após '/') comprando a melhoria de vida na Loja representada pelo ìcone à direita.",
+  "tutShopStoredLifeShield": "O ícone abaixo exibe quantas vidas armazenadas você possui. Essas são obtidas através de premiações. Serão utilizadas automaticamente ao iniciar uma partida caso você não tenha o máximo de vidas.",
+  "tutShopDashBuff": "Este ícone representa as melhorias de ''Dash''. Você pode comprar melhorias na loja. Ao melhorar ''Dash'' o tempo de invencibilidade será aumentado ao utilizar o movimento especial.",
+  "tutShopCredits": "O ícone da moeda representa a quantidade de Créditos que você possui. Você pode obter Créditos jogando o jogo ou através de bonificações.",
+  "tutShopToken": "Este ícone representa a quantidade de Fichas que você possui para ''TENTE A SORTE''.",
+  
+  "gameOverMatchScore": "Pontos:",
+  "gameOverBestScore": "Melhor:",
+  "gameOverScores": "Melhores Jogadores",
+  
+  "tutGoogleGamePlayTitle": "SOCIALIZE",
+  "tutGoogleGamePlay": "Entre na sua conta do Google Game Play e tenha acesso às melhores pontuações do jogo, podendo disputar com seus amigos e o resto do mundo! A sua melhor pontuação será automaticamente compartilhada. Será necessário logar pressionando o botão abaixo, sempre ao entrar no jogo.",
+  
+  "rateUs": "Claro!",
+  "rateUsPostpone": "Depois",
+  
+  "pauseControlSettingBtn": "Alterar Controles",
+  
+  "rateUsRequest": "Muito obrigado por jogar nosso jogo! \n Você gostaria de ajudar uma pequena equipe independente? \n Nos avalie na Google Play. É rapidinho e não te pertubaremos novamente :)"
+}
